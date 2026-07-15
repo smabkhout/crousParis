@@ -1,5 +1,5 @@
 {
-  "total": 4,
+  "total": 5,
   "items": [
     {
       "id": 2867,
@@ -24,6 +24,12 @@
       "address": "4 Allée Jean Rostand 91000 EVRY",
       "rent": null,
       "bedroomCount": 1
+    },
+    {
+      "id": 1716,
+      "address": "1, place des Linandes Mauves 95000 Cergy",
+      "rent": null,
+      "bedroomCount": 2
     }
   ]
 }

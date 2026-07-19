@@ -14,16 +14,16 @@
       "bedroomCount": 1
     },
     {
-      "id": 1031,
-      "address": "9, square de l'échiquier 95800 Cergy st Christophe",
-      "rent": null,
-      "bedroomCount": 2
-    },
-    {
       "id": 2867,
       "address": "18 rue du Bois Guillaume 91000 Evry Courcouronnes",
       "rent": null,
       "bedroomCount": 1
+    },
+    {
+      "id": 1031,
+      "address": "9, square de l'échiquier 95800 Cergy st Christophe",
+      "rent": null,
+      "bedroomCount": 2
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "total": 4,
+  "total": 5,
   "items": [
     {
       "id": 1031,
@@ -24,6 +24,12 @@
       "address": "8 allée de l'Université 92000 Nanterre",
       "rent": null,
       "bedroomCount": 1
+    },
+    {
+      "id": 1716,
+      "address": "1, place des Linandes Mauves 95000 Cergy",
+      "rent": null,
+      "bedroomCount": 2
     }
   ]
 }

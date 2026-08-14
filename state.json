@@ -2,10 +2,16 @@
   "total": 8,
   "items": [
     {
-      "id": 1716,
-      "address": "1, place des Linandes Mauves 95000 Cergy",
+      "id": 2866,
+      "address": "18 rue du Bois Guillaume 91000 Evry Courcouronnes",
       "rent": null,
-      "bedroomCount": 2
+      "bedroomCount": 1
+    },
+    {
+      "id": 2867,
+      "address": "18 rue du Bois Guillaume 91000 Evry Courcouronnes",
+      "rent": null,
+      "bedroomCount": 1
     },
     {
       "id": 1019,
@@ -20,16 +26,10 @@
       "bedroomCount": 2
     },
     {
-      "id": 2866,
-      "address": "18 rue du Bois Guillaume 91000 Evry Courcouronnes",
+      "id": 1716,
+      "address": "1, place des Linandes Mauves 95000 Cergy",
       "rent": null,
-      "bedroomCount": 1
-    },
-    {
-      "id": 2867,
-      "address": "18 rue du Bois Guillaume 91000 Evry Courcouronnes",
-      "rent": null,
-      "bedroomCount": 1
+      "bedroomCount": 2
     },
     {
       "id": 712,

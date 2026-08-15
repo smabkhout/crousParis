@@ -32,12 +32,6 @@
       "bedroomCount": 1
     },
     {
-      "id": 1751,
-      "address": "1 Impasse de la Predecelle 91000 EVRY",
-      "rent": null,
-      "bedroomCount": 2
-    },
-    {
       "id": 1716,
       "address": "1, place des Linandes Mauves 95000 Cergy",
       "rent": null,
@@ -48,6 +42,12 @@
       "address": "15 rue André Lalande 91000 EVRY",
       "rent": null,
       "bedroomCount": 1
+    },
+    {
+      "id": 1751,
+      "address": "1 Impasse de la Predecelle 91000 EVRY",
+      "rent": null,
+      "bedroomCount": 2
     },
     {
       "id": 2867,

@@ -14,12 +14,6 @@
       "bedroomCount": 2
     },
     {
-      "id": 2867,
-      "address": "18 rue du Bois Guillaume 91000 Evry Courcouronnes",
-      "rent": null,
-      "bedroomCount": 1
-    },
-    {
       "id": 2866,
       "address": "18 rue du Bois Guillaume 91000 Evry Courcouronnes",
       "rent": null,
@@ -38,12 +32,6 @@
       "bedroomCount": 1
     },
     {
-      "id": 69,
-      "address": "1 Impasse de la Predecelle 91000 EVRY",
-      "rent": null,
-      "bedroomCount": 1
-    },
-    {
       "id": 1873,
       "address": "4 Allée Jean Rostand 91000 EVRY",
       "rent": null,
@@ -54,6 +42,18 @@
       "address": "1 Impasse de la Predecelle 91000 EVRY",
       "rent": null,
       "bedroomCount": 2
+    },
+    {
+      "id": 2867,
+      "address": "18 rue du Bois Guillaume 91000 Evry Courcouronnes",
+      "rent": null,
+      "bedroomCount": 1
+    },
+    {
+      "id": 69,
+      "address": "1 Impasse de la Predecelle 91000 EVRY",
+      "rent": null,
+      "bedroomCount": 1
     }
   ]
 }

@@ -32,12 +32,6 @@
       "bedroomCount": 1
     },
     {
-      "id": 1031,
-      "address": "9, square de l'échiquier 95800 Cergy st Christophe",
-      "rent": null,
-      "bedroomCount": 2
-    },
-    {
       "id": 1716,
       "address": "1, place des Linandes Mauves 95000 Cergy",
       "rent": null,
@@ -54,6 +48,12 @@
       "address": "8 allée de l'Université 92000 Nanterre",
       "rent": null,
       "bedroomCount": 1
+    },
+    {
+      "id": 1031,
+      "address": "9, square de l'échiquier 95800 Cergy st Christophe",
+      "rent": null,
+      "bedroomCount": 2
     }
   ]
 }

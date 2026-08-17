@@ -20,12 +20,6 @@
       "bedroomCount": 1
     },
     {
-      "id": 712,
-      "address": "8 allée de l'Université 92000 Nanterre",
-      "rent": null,
-      "bedroomCount": 1
-    },
-    {
       "id": 1873,
       "address": "4 Allée Jean Rostand 91000 EVRY",
       "rent": null,
@@ -52,6 +46,12 @@
     {
       "id": 69,
       "address": "1 Impasse de la Predecelle 91000 EVRY",
+      "rent": null,
+      "bedroomCount": 1
+    },
+    {
+      "id": 712,
+      "address": "8 allée de l'Université 92000 Nanterre",
       "rent": null,
       "bedroomCount": 1
     }

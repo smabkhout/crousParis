@@ -12,7 +12,7 @@ CROUS_URL = os.environ["CROUS_URL"]
 STATE_FILE = Path("state.json")
 TOOL_IDS = [47]
 
-TRANSIENT_STATUSES = {403, 408, 425, 429, 500, 502, 503, 504, 520, 521, 522, 523, 524}
+TRANSIENT_STATUSES = {400, 403, 408, 425, 429, 500, 502, 503, 504, 520, 521, 522, 523, 524}
 
 class SiteUnavailable(Exception):
     pass
@@ -48,6 +48,8 @@ def query(tool_id):
         with urllib.request.urlopen(req, timeout=30) as resp:
             raw = resp.read()
     except urllib.error.HTTPError as exc:
+        detail = exc.read().decode("utf-8", "replace")[:300]
+        print(f"tool {tool_id}: HTTP {exc.code} — {detail}", file=sys.stderr)
         if exc.code in TRANSIENT_STATUSES:
             raise SiteUnavailable(f"tool {tool_id}: HTTP {exc.code}") from exc
         raise

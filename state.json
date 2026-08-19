@@ -1,6 +1,14 @@
 {
   "totals": {
-    "47": 0
+    "47": 1
   },
-  "items": []
+  "items": [
+    {
+      "tool": 47,
+      "id": 2250,
+      "address": "1, square Gabriel Auguste Ancelet 60200 COMPIEGNE",
+      "rent": null,
+      "bedroomCount": 1
+    }
+  ]
 }

@@ -35,7 +35,7 @@ jobs:
           secure: true
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
-          from: [PARIS] CROUS Watcher <${{ secrets.MAIL_USERNAME }}>
+          from: PARIS-CROUS Watcher <${{ secrets.MAIL_USERNAME }}>
           to: ${{ secrets.MAIL_TO }}
           subject: "CROUS availability changed: ${{ steps.check.outputs.previous }} → ${{ steps.check.outputs.total }}"
           body: |

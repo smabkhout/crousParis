@@ -39,15 +39,15 @@ jobs:
           to: ${{ secrets.MAIL_TO }}
           subject: "CROUS availability changed: ${{ steps.check.outputs.previous }} → ${{ steps.check.outputs.total }}"
           body: |
-            The number of available accommodations in your CROUS search zone changed.
+            New accommodations available in your CROUS search zone!
 
             Previous: ${{ steps.check.outputs.previous }}
             Now:      ${{ steps.check.outputs.total }}
 
-            Listings:
+            📋 Available Listings:
             ${{ steps.check.outputs.items }}
 
-            Apply here: ${{ vars.CROUS_URL }}
+            🌍 View all listings: ${{ vars.CROUS_URL }}
 
       - name: Commit state
         run: |

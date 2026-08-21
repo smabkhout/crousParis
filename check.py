@@ -69,6 +69,7 @@ def query(tool_id):
             "address": it.get("residence", {}).get("address"),
             "rent": it.get("rent", {}).get("amount"),
             "bedroomCount": it.get("bedroomCount"),
+            "url": f"https://trouverunlogement.lescrous.fr/annonce/{it.get('id')}",
         }
         for it in results.get("items", [])
     ]
@@ -113,7 +114,7 @@ if gh_output:
         f.write(f"previous={fmt(previous_totals)}\n")
         f.write(f"total={fmt(totals)}\n")
         summary_lines = [
-            f"- [tool {it['tool']}] {it['address']} ({it['bedroomCount']} lit(s), {it['rent']}€)"
+            f"- [tool {it['tool']}] {it['address']} ({it['bedroomCount']} lit(s), {it['rent']}€)\n  🔗 {it['url']}"
             for it in items
         ]
         summary = "\n".join(summary_lines) if summary_lines else "(no listings)"

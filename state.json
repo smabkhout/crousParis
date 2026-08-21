@@ -1,6 +1,6 @@
 {
   "totals": {
-    "47": 1
+    "47": 2
   },
   "items": [
     {
@@ -9,6 +9,13 @@
       "address": "1, place des Linandes Mauves 95000 Cergy",
       "rent": null,
       "bedroomCount": 2
+    },
+    {
+      "tool": 47,
+      "id": 3006,
+      "address": "Bâtiment 470 Domaine de l’université de Paris Saclay Rue du château 91400 Orsay",
+      "rent": null,
+      "bedroomCount": 4
     }
   ]
 }

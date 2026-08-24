@@ -69,7 +69,7 @@ def query(tool_id):
             "address": it.get("residence", {}).get("address"),
             "rent": it.get("rent", {}).get("amount"),
             "bedroomCount": it.get("bedroomCount"),
-            "url": f"https://trouverunlogement.lescrous.fr/annonce/{it.get('id')}",
+            "url": f"https://trouverunlogement.lescrous.fr/tools/{tool_id}/accommodations/{it.get('id')}",
         }
         for it in results.get("items", [])
     ]

@@ -1,15 +1,6 @@
 {
   "totals": {
-    "47": 1
+    "47": 0
   },
-  "items": [
-    {
-      "tool": 47,
-      "id": 1716,
-      "address": "1, place des Linandes Mauves 95000 Cergy",
-      "rent": null,
-      "bedroomCount": 2,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1716"
-    }
-  ]
+  "items": []
 }

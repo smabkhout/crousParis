@@ -1,23 +1,6 @@
 {
   "totals": {
-    "47": 2
+    "47": 0
   },
-  "items": [
-    {
-      "tool": 47,
-      "id": 3005,
-      "address": "Bâtiment 470 Domaine de l’université de Paris Saclay Rue du château 91400 Orsay",
-      "rent": null,
-      "bedroomCount": 3,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3005"
-    },
-    {
-      "tool": 47,
-      "id": 3006,
-      "address": "Bâtiment 470 Domaine de l’université de Paris Saclay Rue du château 91400 Orsay",
-      "rent": null,
-      "bedroomCount": 4,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3006"
-    }
-  ]
+  "items": []
 }

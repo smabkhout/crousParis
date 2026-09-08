@@ -1,6 +1,15 @@
 {
   "totals": {
-    "47": 0
+    "47": 1
   },
-  "items": []
+  "items": [
+    {
+      "tool": 47,
+      "id": 1751,
+      "address": "1 Impasse de la Predecelle 91000 EVRY",
+      "rent": null,
+      "bedroomCount": 2,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1751"
+    }
+  ]
 }

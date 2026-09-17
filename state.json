@@ -1,15 +1,6 @@
 {
   "totals": {
-    "47": 1
+    "47": 0
   },
-  "items": [
-    {
-      "tool": 47,
-      "id": 2555,
-      "address": "21, rue André Maginot 91400 ORSAY",
-      "rent": null,
-      "bedroomCount": 2,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2555"
-    }
-  ]
+  "items": []
 }

@@ -1,6 +1,6 @@
 {
   "totals": {
-    "47": 4
+    "47": 3
   },
   "items": [
     {
@@ -13,14 +13,6 @@
     },
     {
       "tool": 47,
-      "id": 2856,
-      "address": "2 rue Sophie Germain 91400 Orsay",
-      "rent": null,
-      "bedroomCount": 4,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2856"
-    },
-    {
-      "tool": 47,
       "id": 1751,
       "address": "1 Impasse de la Predecelle 91000 EVRY",
       "rent": null,
@@ -29,11 +21,11 @@
     },
     {
       "tool": 47,
-      "id": 2702,
-      "address": "16, rue André Blanc Lapierre 91190 GIF-SUR-YVETTE",
+      "id": 2856,
+      "address": "2 rue Sophie Germain 91400 Orsay",
       "rent": null,
-      "bedroomCount": 3,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2702"
+      "bedroomCount": 4,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2856"
     }
   ]
 }

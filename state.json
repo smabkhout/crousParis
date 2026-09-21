@@ -1,16 +1,8 @@
 {
   "totals": {
-    "47": 5
+    "47": 2
   },
   "items": [
-    {
-      "tool": 47,
-      "id": 2862,
-      "address": "20, cour Pierre Vasseur 91120 - PALAISEAU",
-      "rent": null,
-      "bedroomCount": 4,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2862"
-    },
     {
       "tool": 47,
       "id": 2856,
@@ -21,27 +13,11 @@
     },
     {
       "tool": 47,
-      "id": 3004,
-      "address": "Bâtiment 470 Domaine de l’université de Paris Saclay Rue du château 91400 Orsay",
+      "id": 2862,
+      "address": "20, cour Pierre Vasseur 91120 - PALAISEAU",
       "rent": null,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3004"
-    },
-    {
-      "tool": 47,
-      "id": 1751,
-      "address": "1 Impasse de la Predecelle 91000 EVRY",
-      "rent": null,
-      "bedroomCount": 2,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1751"
-    },
-    {
-      "tool": 47,
-      "id": 816,
-      "address": "21, rue André Maginot 91400 ORSAY",
-      "rent": null,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/816"
+      "bedroomCount": 4,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2862"
     }
   ]
 }

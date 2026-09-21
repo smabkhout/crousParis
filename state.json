@@ -1,6 +1,6 @@
 {
   "totals": {
-    "47": 5
+    "47": 3
   },
   "items": [
     {
@@ -26,22 +26,6 @@
       "rent": null,
       "bedroomCount": 4,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2862"
-    },
-    {
-      "tool": 47,
-      "id": 3004,
-      "address": "Bâtiment 470 Domaine de l’université de Paris Saclay Rue du château 91400 Orsay",
-      "rent": null,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3004"
-    },
-    {
-      "tool": 47,
-      "id": 2702,
-      "address": "16, rue André Blanc Lapierre 91190 GIF-SUR-YVETTE",
-      "rent": null,
-      "bedroomCount": 3,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2702"
     }
   ]
 }
